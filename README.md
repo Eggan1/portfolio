@@ -7,7 +7,7 @@ I am a Data Science student at VinUni with interests in econometrics, machine le
 ## Portfolio
 ### 🔹 3D Modeling & AR/VR
 - Blender assets, aviation models, and AR-enhanced learning objects.  
-- https://docs.google.com/document/d/1hGLHCD2yX5ymrqjeRLIvTjYIT1GeO-w5D_rfuDRQ5Ug/edit?usp=sharing
+- [Google Drive Portfolio](https://docs.google.com/document/d/1hGLHCD2yX5ymrqjeRLIvTjYIT1GeO-w5D_rfuDRQ5Ug/edit?usp=sharing)
 
 ### 🔹 Data Science Projects
 - Python, R, Econometrics, Machine Learning  
